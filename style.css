@@ -1,0 +1,46 @@
+﻿/* CSS files add styling rules to your content */
+
+body {
+    margin: 0 auto;
+    width: 1200px;
+    font-weight: 525;
+}
+
+.sender-column {
+    text-align: right;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+p, ul, ol, dl {
+    font-size: 1.1em;
+}
+
+p, li, dd, dt {
+    line-height: 1.5;
+}
+
+.Headerinfo {
+    text-align: right;
+    padding-right: 60px;
+}
+
+.outsideborder {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+.paddingpage {
+    padding-left: 60px;
+    padding-right: 60px;
+    line-height: 1.5;
+}
